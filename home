@@ -26,15 +26,11 @@ background-color: white
 </head>
 <body>
 <div style="background-color:#2a60b7;color:PowederBlue;padding:10px;">
-<table align="center">
-<tr>
-<td>|</td>
-<td><p><a href="projectfood.html" target="_blank">Places to Eat!</a></p> </td><!-- food -->
-<td>|</td>
-<td><p><a href="" target="_blank">Views in the Bay!</a></p> </td> <!-- places to visit -->
-<td>|</td>
-<th> <font size="6" >Bay Area Tour</th></font>
-</table>
+<img src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" hspace="50" ><a href="projectfood.html" target="_blank"></a> <!-- food --> 
+<img src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" hspace="50" ><a href="" target="_blank"></a><!-- places to visit -->
+<center>
+<font size="6" hspace="50">Bay Area Tour</font>
+</center>
 </div>
 
 <p>This is a map.</p>
