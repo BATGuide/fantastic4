@@ -1,37 +1,11 @@
 <DOCTYPE! html>
 <head>
 <title>Places to visit</title>
-<style>
-<h1>San Francisco </h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/San_Francisco_Golden_Gate_Park_Conservatory_of_Flowers.jpg" alt="Golden Gate Park">
+<style></style>
+</head><body><h1>Golden Gate Park</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/San_Francisco_Golden_Gate_Park_Conservatory_of_Flowers.jpg" alt="GoldenGatePark" height="250" width="300" >
 
 
 
 
-
-</style>
-</head>
-<body>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-
-
-</body>
 </html>
