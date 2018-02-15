@@ -8,6 +8,7 @@ background-color: AliceBlue;
 }
 h1, p {
 text-align: center;
+;
 }
 th{
 text-align: center;
@@ -15,26 +16,40 @@ color: white;
 }
 table, td, th, tr{
 border-spacing: 20xp;
+
 }
 a:link, a:hover, a:visited, a:active {
 color: black;
 background-color: white
+}
+div.map {
+float: left;
+}
+div.blue{
+float: top;
 }
 
 </style>
 
 </head>
 <body>
-<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;">
-<img src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" hspace="50" ><a href="projectfood.html" target="_blank"></a> <!-- food --> 
-<img src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" hspace="50" ><a href="" target="_blank"></a><!-- places to visit -->
+<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;" class="blue">
+<img style="margin-left: 500px, margin-right: 500px,margin-top: 80px;" src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" usemap="#forkmehard"><a href="projectfood.html" target="_blank"></a> 
+<img style="margin-left: 200px;margin-right: 200px" src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" usemap="#mmbridge" ><a href="" target="_blank"></a>
 <center>
 <font size="6" hspace="50">Bay Area Tour</font>
 </center>
-</div>
-
-<p>This is a map.</p>
-
-<iframe align="center" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12679.814818465158!2d-121.8619537!3d37.39092709999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1516850472501" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div><br>
+<map name="forkmehard">
+<area shape="rect" coords="0,0,50,50" href="">
+</map>
+<map name="mmbridge">
+<area shape="rect" coords="0,0,80,80" href="">
+</map>
+<h1 style="font-family: 'PT Serif', serif;" >This is a map.</h1><br>
+<font>
+<div class="map">
+<iframe align="center" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12679.814818465158!2d-121.8619537!3d37.39092709999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1516850472501" width="600" height="450" frameborder="0"  style="border:0" allowfullscreen></iframe> </div><br>
+<p></p>
 </body>
 </html>
