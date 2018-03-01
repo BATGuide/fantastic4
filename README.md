@@ -1,5 +1,10 @@
-# fantastic_4
-Just some beginning butter code
- 
- <DOCTYPE! html>
- <h1>This is Code</h1>
+<DOCTYPE! html>
+<head>
+ <title>Welcome to BATGuide</title>
+ </head>
+ <body bgcolor="#4286f4">
+ <center>
+ <h1><a href="fantastic_4/home.html"> continue</h1></a>
+ </center>
+ </body>
+ </html>
