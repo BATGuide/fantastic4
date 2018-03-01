@@ -1,0 +1,68 @@
+<DOCTYPE! html>
+<head>
+<title>Bay Area Foods</title>
+<style>
+div.food {
+text-align: right;
+}
+</style>
+</head>
+<body>
+<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;" class="blue">
+<img style="margin-left: 500px, margin-right: 500px,margin-top: 80px;" src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" usemap="#forkmehard"><a href="projectfood.html" target="_blank"></a> 
+<img style="margin-left: 200px;margin-right: 200px" src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" usemap="#mmbridge" ><a href="" target="_blank"></a>
+<center>
+<font size="6" hspace="50"><a href="Maping1.html" >Bay Area Tour</a></font>
+</center>
+</div><br>
+<div class="food">
+<table size="100%" colspan="5" align="center">
+<tr>
+<th colspan="5">Our favorites</th>
+</tr>
+<tr>
+<th>Indian</th>
+<th>Italian</th>
+<th>editerranean</th>
+<th>4</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</div>
+
+
+</body>
+</html>
