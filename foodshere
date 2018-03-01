@@ -21,13 +21,21 @@ text-align: right;
 <th colspan="5">Our favorites</th>
 </tr>
 <tr>
-<th>Indian</th>
-<th>Italian</th>
-<th>editerranean</th>
-<th>4</th>
+<th>Breakfast</th>
+<th>Dinner</th>
+<th>Lunch</th>
+<th>Dessert</th>
+<th>Great at any time</th>
 </tr>
 <tr>
 <td></td>
+<td>.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>The Kabob Shop</td>
 <td></td>
 <td></td>
 <td></td>
@@ -35,14 +43,7 @@ text-align: right;
 
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
+<td>.</td>
 <td></td>
 <td></td>
 </tr>
@@ -50,12 +51,12 @@ text-align: right;
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>.</td>
 <td></td>
 </tr>
 
 <tr>
-<td></td>
+<td>Benigans</td>
 <td></td>
 <td></td>
 <td></td>
