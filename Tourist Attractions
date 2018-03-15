@@ -3,16 +3,10 @@
 <title>Tourist Attractions</title>
 <style>
 body {
-background-image: url("thisthing.jpg") ;
+background-image: url("https://static.photocdn.pt/images/articles/2017/04/28/iStock-546424192.jpg") ;
 background-repeat: no-repeat; 
 }
 
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
 
 div.gallery:hover {
     border: 1px solid #777;
@@ -31,12 +25,26 @@ div.desc {
 </style>
 </head>
 <body>
+<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;" class="blue">
+<img style="margin-left: 500px, margin-right: 500px,margin-top: 80px;" src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" usemap="#forkmehard">
+<img style="margin-left: 200px;margin-right: 200px" src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" usemap="#mmbridge" >
+<center>
+<font size="6" hspace="50">Bay Area Tour</font>
+</center>
+</div><br>
+<map name="forkmehard">
+<area shape="rect" coords="0,0,50,50" href="foodshere.html">
+</map>
+<map name="mmbridge">
+<area shape="rect" coords="0,0,80,80" href="TAs.html">
+</map>
+</div>
 <table align="center">
 <tr>
 
 <td><div class="gallery">
   <a target="_blank" href="">
-    <img src="https://www.usmagazine.com/wp-content/uploads/2018/01/sterncats7.jpg?w=1000" alt="Trolltunga Norway" width="300" height="300">
+    <img src="https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1487701021%2Feiffel-tower-paris-france-EIFFEL0217.jpg%3Fitok%3Dm0MZOYjh&w=800&q=85" alt="Trolltunga Norway" width="300" height="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
