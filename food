@@ -1,49 +1,81 @@
 <html>
 <head>
-<title>Restaurants</title>
+<title>FOOD</title>
+<style>
+body {
+background-image: linear-gradient(pink, plum, lightskyblue) ;
+background-repeat: no-repeat; 
+}
+div.gallery:hover {
+    border: 1px solid black;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+	
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
 </head>
 <body>
+<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;" class="blue">
+<img style="margin-left: 500px, margin-right: 500px,margin-top: 80px;" src="http://freevector.co/wp-content/uploads/2010/05/40019-flatware-silhouette-of-a-knife-and-a-fork-cross.png" height="50" width="50" usemap="#forkmehard">
+<img style="margin-left: 200px;margin-right: 200px" src="http://moziru.com/images/bridge-clipart-silhouette-9.png" height="80" width="80" usemap="#mmbridge" >
+<center>
+<font size="6" hspace="50">Bay Area Tour</font>
+</center>
+</div><br>
+<map name="forkmehard">
+<area shape="rect" coords="0,0,50,50" href="foodshere.html">
+</map>
+<map name="mmbridge">
+<area shape="rect" coords="0,0,80,80" href="">
+</map>
+</div>
+<table align="center">
+<tr>
 
-<ol>
-<li>In and out
-<li>Panda exspress
-<li>Sizzling Gormet
-<li>Falafel stop
-<li>Jake's Pizza
-<li>Cold Stone
-<li>Basken Robins
-<li>Paris Baguette
-<li>Amy's Drive thru
-<li>Zazi (?)
-<li>Pho house
-<li>Stans doughnuts
-<li>Rajott
-<li>Chelokababi
-<li>Tanto Japanese Restaurant
-<li>Rok Bistro
-<li>Sunnyvale Black Bear Diner
-<li>Mod Pizza
-<li>Marie Callendar's
-<li>Black Angus Steakhouse
-<li>Cheese steak Shop 
-<li>Chaat House
-<li>El Caminito
-<li>Krispe Kreme
-<li>Benihana
-<li>Benigans
-<li>Cheesecake Factory
-<li>BJs
-<li>Coconut'fish cafe
-<li>Aqui
-<li>Taco Bell
-<li>Poor Boys
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<iframe width="560" height="315" src="https://www.yelp.com/san-jose" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<td><div class="gallery">
+  <a target="_blank" href="TAs.html">
+    <img src="https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1487701021%2Feiffel-tower-paris-france-EIFFEL0217.jpg%3Fitok%3Dm0MZOYjh&w=800&q=85" alt="Trolltunga Norway" width="300" height="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</td>
+<td>
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="https://d3jkudlc7u70kh.cloudfront.net/cat-facts.jpg" alt="Forest" width="300" height="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</td>
+<td>
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="https://d3jkudlc7u70kh.cloudfront.net/cat-facts.jpg" alt="Northern Lights" width="300" height="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</td>
+<td>
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="https://d3jkudlc7u70kh.cloudfront.net/cat-facts.jpg" alt="Mountains" width="300" height="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</td>
+</tr>
+
+
+
+
+
 </body>
 </html>
+
