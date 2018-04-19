@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background: linear-gradient(black,white);
+}
+div.gallery {
+    margin: 5px;
+    border: 4px solid #ccc;
+    float: left;
+    width: 180px;
+	hspace: 400px;
+}
+
+div.gallery:hover {
+    border: 4px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+ul{
+background: linear-gradient(to right, #a0c4ff, #4d79c1 ,#23268c , #532ca0 , #9621b7 , #dc91f2 );
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #27363d;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+	color: white;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #8cd1f2;
+}
+</style>
+</head>
+<body>
+
+ <ul hspace="20">
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">How Much Do We Really Waste?</a></li>
+  <li style="float:right"><a href="#about">Is Our Water Safe?</a></li>
+  <li style="float:right"><a href="">What Can We Do?</a></li>
+</ul>
+
+ <table size="80%" align="center">
+ <tr>
+ <td>
+<div class="gallery">
+  <a target="_blank" href="img_fjords.jpg">
+    <img src="chaat.jpg" alt="Trolltunga Norway" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="https://i1.wp.com/www.theimpulsivebuy.com/wordpress/wp-content/uploads/2017/09/Panda-Express-Peking-Pork.jpg?zoom=1.25&resize=598%2C336&ssl=1" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="https://img.grouponcdn.com/deal/mqrEwWskuYLcZoEUUXYd/8h-700x420/v1/c700x420.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="chaat.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="gallery">
+  <a target="_blank" href="img_fjords.jpg">
+    <img src="chaat.jpg" alt="Trolltunga Norway" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Baskin-Robbins_logo.svg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="https://cdn.geekwire.com/wp-content/uploads/2015/03/modpizza.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="https://cdn20.patchcdn.com/users/22423906/20160630/051432/styles/T800x600/public/article_images/black_bear_diner.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</td>
+</tr>
+</table>
+<table size="80%" align="center">
+<tr>
+<td>
+
+
+<div class="gallery">
+  <a target="_blank" href="img_fjords.jpg">
+    <img src="chaat.jpg" alt="Trolltunga Norway" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="https://i1.wp.com/www.theimpulsivebuy.com/wordpress/wp-content/uploads/2017/09/Panda-Express-Peking-Pork.jpg?zoom=1.25&resize=598%2C336&ssl=1" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="https://i1.wp.com/www.theimpulsivebuy.com/wordpress/wp-content/uploads/2017/09/Panda-Express-Peking-Pork.jpg?zoom=1.25&resize=598%2C336&ssl=1" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
